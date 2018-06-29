@@ -23,11 +23,6 @@ opacity: 0.6;
 {
 font-style: italic;
 }
-
-a:visited
-{
-color : red;
-}
 body
 {
   background-color: #EEEEEE;
@@ -46,5 +41,5 @@ body
 }
 .button
 {
-  background-color: #red;
+  background-color: #magenta;
 }
